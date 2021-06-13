@@ -6,7 +6,7 @@
 #include<string.h>
 #define MAX 100
 
-void server()
+void main()
 {
   printf("Server side:\n");
   char msg[MAX];
